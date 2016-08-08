@@ -1,0 +1,27 @@
+_repo: Po-No-Kah--An-Indian-Tale-of-Long-Ago_11991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dodge, Mary Mapes
+    alias: Dodge, M. E. (Mary Elizabeth)
+    birthdate: 1830
+    deathdate: 1905
+    gutenberg_agent_id: '402'
+    url: http://www.gutenberg.org/2009/agents/402
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Mapes_Dodge
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, American'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Po-No-Kah: An Indian Tale of Long Ago'
+url: http://www.gutenberg.org/ebooks/11991
