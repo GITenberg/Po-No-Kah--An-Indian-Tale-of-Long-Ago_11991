@@ -1,5 +1,8 @@
 _repo: Po-No-Kah--An-Indian-Tale-of-Long-Ago_11991
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dodge, Mary Mapes
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/402
     wikipedia: http://en.wikipedia.org/wiki/Mary_Mapes_Dodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11991#Po-No-Kah--An-Indian-Tale-of-Long-Ago
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
